@@ -3,7 +3,7 @@
 I'm Yanni; I'm a Computer Science major at the Grainger College of Engineering at the University of Illinois.  
 
   
-Currently, I'm a research intern at the Parallel Programming Laboratory at UIUC. I'm also involved in the Reflection|Projections Dev Team as a SWE and the AMD Security Team at Disruption Lab as a SWE. I'll also be a Course Assistant for CS128 starting this fall.  
+Currently, I'm a SWE intern at Modern Treasury. I'm also an undergraduate research assistant at the Parallel Programming Laboratory at UIUC. I've also been involved in Reflections Projections Developement Team and the AMD Malware Team at Disruption Lab. 
   
 Feel free to contact me: yanniz3 'at' illinois.edu
 
