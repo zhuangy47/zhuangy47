@@ -3,7 +3,7 @@
 I'm Yanni; I'm a Computer Science major at the Grainger College of Engineering at the University of Illinois.  
 
   
-Currently, I'm a SWE intern at Modern Treasury, where I'm building scalable systems for data ingestion. I'm also an undergraduate research assistant at the Parallel Programming Laboratory at UIUC. I've also been involved in the Reflections Projections Developement Team and the AMD Malware Team at Disruption Lab.
+Currently, I'm a SWE intern at Modern Treasury, where I'm building scalable systems for data ingestion to support the payment infrastructure for some of the largest fintech companies. I'm also an undergraduate research assistant at the Parallel Programming Laboratory at UIUC. I've also been involved in the Reflections Projections Developement Team and the AMD Malware Team at Disruption Lab.
   
 Feel free to contact me: yanniz3 'at' illinois.edu
 
