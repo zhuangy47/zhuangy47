@@ -1,7 +1,7 @@
 ### Hey there! 👋
 I'm a junior studying computer science at the University of Illinois Urbana-Champaign 🌽
 
-Currently, I'm an undergraduate research assistant at the Parallel Programming Laboratory (PPL) where I tinker with the Charm++ framework. My interests generally lie in building scalable systems for large-scale computing applications. I'm also one of the lead course developers for CS341 and a course assistant for CS374. I was previously a CA for CS433, CS433.
+Currently, I'm an undergraduate research assistant at the Parallel Programming Laboratory (PPL) where I tinker with the Charm++ framework. My interests generally lie in building scalable systems for large-scale computing applications. I'm also one of the lead course developers for CS341 and a course assistant for CS374. I was previously a CA for CS433 and CS128.
 
 Last summer, I worked at Modern Treasury, where I redesigned a financial data ingestion system, 275x'ing its operating capacity.
 
