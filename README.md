@@ -8,4 +8,4 @@ The summer before that, I worked at Modern Treasury, where I redesigned a financ
 
 I'm also the current Academic Committee Co-Chair of ACM @ UIUC. In the past, I've been the Vice Chair for ACM @ UIUC and a member of the Reflection | Projections Development team, Disruption Lab, and the Illinois Space Society. 
 
-Feel free to contact me: yanniz3 'at' illinois.edu
+Feel free to contact me: yanniz3 'at' illinois.edu or yanni 'at' yannizhuang.com
